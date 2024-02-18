@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdullah Bashar 👋
 # 💫 About Me:
-🔭 I’m currently working on [HUC](https://www.huc.edu.iq/ar/) app<br>🌱 I’m currently learning (Jetpack) Compose and testing<br>📱 I'm interested in UI/UX for mobile apps<br>🥅 Goals: Contribute more to Open Source projects<br>📫 How to reach me abdullahbashar98@gmail.com<br>
+🔭 I’m currently working on [HUC](https://www.huc.edu.iq) app<br>🌱 I’m currently learning (Jetpack) Compose and testing<br>📱 I'm interested in UI/UX for mobile apps<br>🥅 Goals: Contribute more to Open Source projects<br>📫 How to reach me abdullahbashar98@gmail.com<br>
 
 
 ## 🌐 Socials:
